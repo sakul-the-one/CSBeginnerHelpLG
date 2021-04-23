@@ -5,3 +5,6 @@ An Easy DLL for sparing Time at C# Programming (Beginner friendly) (Pls send som
 Can I use this for any Projects?
 =================================
 Yes, aslong you don't distrubt any Visual Studio Rules or say it is from you and not from @darkfall and @mdiller
+How To Programm with it?
+=================================
+look in docs for Code examples and more :)
