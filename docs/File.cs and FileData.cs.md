@@ -33,3 +33,4 @@ File.start(@"C:\Games\MyGame\Game.exe");
 ```
 ### We are finish now! 
 We have talked about all functions there and how it works, I hope it helps allot in fast programming!
+###### Any Suggestions? Say them!
