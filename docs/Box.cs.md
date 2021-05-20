@@ -30,3 +30,18 @@ Box.error("Error", "Was this a Number? Try it again!");
 }
 ```
 ## Just one thing left!
+If you have tested them, you saw that there was just one Button, but what about to ask a Question?
+```cs 
+public void Question() {
+bool Yes = Box.ask("A Question", "Do you wanna use DarkMode?");
+if (Yes == true)
+{
+this.color = Black;
+} else {
+this.color = White;
+}
+} 
+```
+## Mission compledet, easy like always!
+If this with the 'this.color' not works, say it! I will fix it, but that was basically the class Box, I hope you liked it!
+###### Any Suggestions? Say them!
