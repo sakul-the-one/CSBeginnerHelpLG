@@ -19,6 +19,9 @@ Now let's try to read a file ( **Place the Code under the last one!**)
 public void Read(){
 string Text1 = Learning.read();//Read from the Variable Above
 string Text2 = File.read(@":\Saves\Learning.txt");//Read on the Static Field
+string Text3 = Learning.read(1); //Read not more then Two lines
+string Text4 = File.read(@":\Saves\Learning.txt", 2)//Reads not more then three lines, if it's possible.
+
 }
 ```
 ### Still easy, right? One thing left...
