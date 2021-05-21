@@ -1,6 +1,0 @@
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\bin\Debug\CSBeginnerHelpLG.dll
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\bin\Debug\CSBeginnerHelpLG.pdb
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\obj\Debug\CSBeginnerHelpLG.csprojAssemblyReference.cache
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\obj\Debug\CSBeginnerHelpLG.csproj.CoreCompileInputs.cache
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\obj\Debug\CSBeginnerHelpLG.dll
-C:\Users\Sakul\Desktop\Visuals Projekts\CSBeginnerHelpLG\CSBeginnerHelpLG\obj\Debug\CSBeginnerHelpLG.pdb
