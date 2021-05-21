@@ -1,0 +1,5 @@
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Luftgleiter.CSBeginnerHelpLG\Luftgleiter.CSBeginnerHelpLG\bin\Debug\Luftgleiter.CSBeginnerHelpLG.dll
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Luftgleiter.CSBeginnerHelpLG\Luftgleiter.CSBeginnerHelpLG\bin\Debug\Luftgleiter.CSBeginnerHelpLG.pdb
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Luftgleiter.CSBeginnerHelpLG\Luftgleiter.CSBeginnerHelpLG\obj\Debug\Luftgleiter.CSBeginnerHelpLG.csproj.CoreCompileInputs.cache
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Luftgleiter.CSBeginnerHelpLG\Luftgleiter.CSBeginnerHelpLG\obj\Debug\Luftgleiter.CSBeginnerHelpLG.dll
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Luftgleiter.CSBeginnerHelpLG\Luftgleiter.CSBeginnerHelpLG\obj\Debug\Luftgleiter.CSBeginnerHelpLG.pdb
