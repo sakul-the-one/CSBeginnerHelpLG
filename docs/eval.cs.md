@@ -4,10 +4,10 @@
 public void RunCS() 
 {
    List<string> Assembles = new List<string>(); 
-   Assembles.add("System.dll");
-   string CSCode = "using System;namespace Running{class programm{ public void main() {Console.WriteLine("Hello World"); Console.ReadLine();}}}";
+   Assembles.Add("System.dll");
+   string CSCode = "using System;namespace Running{class programm{ public void Main(string[] args) {Console.WriteLine("Hello World"); Console.ReadLine();}}}";
    string Output = "Console.exe";
-   Eval.CSEval(CSCode, Output, Assembles)
+   string ConsoleOutput = Convert.ToString(Eval.CSEval(CSCode, Output, Assembles));
 }
 ```
 ## Its a bit harder then the other, but it not so hard, right???
